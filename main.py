@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import telebot
 
 
-bot = telebot.TeleBot("6379793245:AAFM5yPeutctViUd8hWwHyd0_wOoaTUIyuQ")
+bot = telebot.TeleBot("bot_key")
 
 
 def search_courses(df, courses):
